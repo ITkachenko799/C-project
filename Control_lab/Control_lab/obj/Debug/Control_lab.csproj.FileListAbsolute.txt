@@ -1,0 +1,12 @@
+D:\univer\Control_lab\Control_lab\bin\Debug\Control_lab.exe.config
+D:\univer\Control_lab\Control_lab\bin\Debug\Control_lab.exe
+D:\univer\Control_lab\Control_lab\bin\Debug\Control_lab.pdb
+D:\univer\Control_lab\Control_lab\obj\Debug\Control_lab.csproj.AssemblyReference.cache
+D:\univer\Control_lab\Control_lab\obj\Debug\Control_lab.Form1.resources
+D:\univer\Control_lab\Control_lab\obj\Debug\Control_lab.Properties.Resources.resources
+D:\univer\Control_lab\Control_lab\obj\Debug\Control_lab.csproj.GenerateResource.cache
+D:\univer\Control_lab\Control_lab\obj\Debug\Control_lab.csproj.CoreCompileInputs.cache
+D:\univer\Control_lab\Control_lab\obj\Debug\Control_lab.exe
+D:\univer\Control_lab\Control_lab\obj\Debug\Control_lab.pdb
+D:\univer\Control_lab\Control_lab\obj\Debug\Control_lab.Delete_Students.resources
+D:\univer\Control_lab\Control_lab\obj\Debug\Control_lab.Delete_teacher.resources
